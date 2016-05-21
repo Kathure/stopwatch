@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="app_intro">Hello World, StopWatch!</string>
+    <string name="chronometer_initial_format">Initial format:%</string>
+</resources>
